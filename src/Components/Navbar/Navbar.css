@@ -36,3 +36,6 @@
     transition: .3s;
 }
 
+.navbar a:hover::before { 
+    width: 100%;
+}
