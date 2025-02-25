@@ -10,3 +10,9 @@
     align-items: center;
     z-index: 100;
 }
+
+.logo { 
+    font-size: 32px;
+    color: #fff;
+    font-weight: 700;
+}
