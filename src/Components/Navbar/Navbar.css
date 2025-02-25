@@ -24,3 +24,11 @@
     font-weight: 500;
     margin-left: 40px;
 }
+
+.navbar a::before { 
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background: #fff;
+}
